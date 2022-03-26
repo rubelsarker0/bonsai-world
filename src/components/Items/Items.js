@@ -2,7 +2,7 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTrash } from '@fortawesome/free-solid-svg-icons';
 
-const Items = ({ items }) => {
+const Items = ({ items, deleteSingleCartItem }) => {
 	return (
 		<div className="row align-items-center justify-content-center mb-2">
 			<div className="col-4">
@@ -16,7 +16,11 @@ const Items = ({ items }) => {
 				<p>{items.bonsaiName}</p>
 			</div>
 			<div className="col-2">
-				<FontAwesomeIcon icon={faTrash} className="generic-color" />
+				<FontAwesomeIcon
+					onClick={() => deleteSingleCartItem(items.id)}
+					icon={faTrash}
+					className="generic-color"
+				/>
 			</div>
 		</div>
 	);

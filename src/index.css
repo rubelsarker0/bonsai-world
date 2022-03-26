@@ -14,3 +14,9 @@ code {
 .text-align-justify {
 	text-align: justify;
 }
+.generic-color {
+	color: #15ca20;
+}
+.generic-bg-color {
+	background-color: #15ca20 !important;
+}
