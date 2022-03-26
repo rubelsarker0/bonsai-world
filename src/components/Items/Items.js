@@ -19,7 +19,7 @@ const Items = ({ items, deleteSingleCartItem }) => {
 				<FontAwesomeIcon
 					onClick={() => deleteSingleCartItem(items.id)}
 					icon={faTrash}
-					className="generic-color"
+					className="generic-color cursor-pointer"
 				/>
 			</div>
 		</div>
