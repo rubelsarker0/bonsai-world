@@ -11,10 +11,6 @@ _Our mission is very clear - we want to provide the best qualities of bonsai aro
 
 ## To run this application you need follow below steps
 
-> Clone the application from github using this link:
-
-- [x] https://github.com/Programming-Hero-Web-Course3/healthcare-related-website-rubelsarker0
-
 # Site live url:
 
 - [x] https://bonsai-world.netlify.app/
