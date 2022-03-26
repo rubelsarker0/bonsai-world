@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "bonsaiImg": "https://www.bonsaiempire.com/images/site/species/bonsai-species-cotoneaster-DSC00612.jpg",
+    "bonsaiName": "Cotoneaster",
+    "bonsaiDesc": "Cotoneasters are small trees, shrubs or ground covering plants which are native to Europe, North-Africa and Asia. Most species have small dark green glossy leaves, tiny white flowers in spring, followed by red, orange or yellow, apple-shaped fruit in autumn.",
+    "price": 100
+  },
+  {
+    "id": 2,
+    "bonsaiImg": "https://www.bonsaiempire.com/images/site/species/bonsai-species-azalea-bonsai-heike.jpg",
+    "bonsaiName": "Azalea",
+    "bonsaiDesc": "The Rhododendron genus contains about 1000 species, of which especially the Satsuki azalea (Rhododendron indicum) and Kurume azalea (Rhododendron kiusianum and Rhododendron kaempferi) are commonly used for Bonsai.",
+    "price": 120
+  },
+  {
+    "id": 3,
+    "bonsaiImg": "https://www.bonsaiempire.com/images/site/species/bonsai-species-Wrightia-religiosa.jpg",
+    "bonsaiName": "Water jasmine",
+    "bonsaiDesc": "The Water Jasmine is a tropical tree species which is native to China, Indochine and Malaysia and can become up to 20 ft tall. It has a smooth grey bark and prominent surface roots. In Southeast Asian countries the water jasmine is often used for bonsai.",
+    "price": 150
+  },
+  {
+    "id": 4,
+    "bonsaiImg": "https://www.bonsaiempire.com/images/site/species/bonsai-species-oak-quercusroburIMG-9221.jpg",
+    "bonsaiName": "Oak",
+    "bonsaiDesc": "Oaks are strong trees, most are deciduous but some are evergreen, they produce very characteristic fruits (acorns). There are several hundred oak species which grow in Europe, North Africa, Southwest Asia, Central and North America.",
+    "price": 110
+  },
+  {
+    "id": 5,
+    "bonsaiImg": "https://www.bonsaiempire.com/images/site/species/bonsai-species-camellia-jap.jpg",
+    "bonsaiName": "Camellia",
+    "bonsaiDesc": "Camellia is a genus with several hundred species and thousands of hybrids and cultivars that belong to the tea plant family (Theaceae). The evergreen shrubs or small trees have glossy elliptic leathery leaves, a light beige smooth bark and produce white, pink, red or yellow flowers.",
+    "price": 119
+  },
+  {
+    "id": 6,
+    "bonsaiImg": "https://www.bonsaiempire.com/images/site/species/bonsai-species-fuchsia-ulduz.jpg",
+    "bonsaiName": "Fuchsia",
+    "bonsaiDesc": "Consisting of over 8000 species, Fuchsia trees used for Bonsai purposes are often of the “microphylla” or the “magellanica” kind. The tree grows fast and has pink/purple flowers in the summer. Most Fuchsia species are hardy, but need to be protected carefully during the winter.",
+    "price": 100
+  },
+  {
+    "id": 7,
+    "bonsaiImg": "https://www.bonsaiempire.com/images/site/species/bonsai-species-acacia-123bonsai.jpg",
+    "bonsaiName": "Wattle",
+    "bonsaiDesc": "The wattle is a large genus of more than 1200 species, many of which are suited for bonsai. They are broadleaf evergreen trees or shrubs with compound pinnate leaves in most cases. Some species have flattened leaf-stalks (petioles), known as phyllodes, which serve the purpose of leaves.",
+    "price": 145
+  },
+  {
+    "id": 8,
+    "bonsaiImg": "https://www.bonsaiempire.com/images/site/species/ficus-bonsai.jpg",
+    "bonsaiName": "Ficus",
+    "bonsaiDesc": "he Ficus genus belongs to the family of mulberry plants or Moraceae, and it’s the most popular indoor tree species for Bonsai beginners. They can be found on every continent in the tropic regions and are very suitable for indoor Bonsai.",
+    "price": 100
+  },
+  {
+    "id": 9,
+    "bonsaiImg": "https://www.bonsaiempire.com/images/site/species/maple-bonsai.jpg",
+    "bonsaiName": "Japanese maple",
+    "bonsaiDesc": "The Japanese Maple, otherwise known as Acer palmatum, is originally from Japan, China, and Korea. It owes its botanical name to the hand-shaped leaves with five pointed lobes. Palma is Latin for palm, as in the palm of your hand.",
+    "price": 100
+  },
+  {
+      "id": 10,
+      "bonsaiImg": "https://www.bonsaiempire.com/images/site/species/juniper-bonsai.jpg",
+      "bonsaiName": "Juniper",
+      "bonsaiDesc": "The juniper genus is made up of about 50 to 70 different species within the cypress family. They are evergreen coniferous trees or shrubs, which are very popular for Bonsai. Junipers can have two types of foliage, needle-like, and scale-like foliage.",
+      "price": 211
+    },
+    {
+      "id": 11,
+      "bonsaiImg": "https://www.bonsaiempire.com/images/site/species/bonsai-species-adenium-desert-rose.jpg",
+      "bonsaiName": "Desert rose",
+      "bonsaiDesc": "The Desert Rose, also called the Japanese frangipani and Adenium bonsai, is a small succulent tree native to Africa and Arabia which has fleshy leaves and develops a bulbous base. It produces large pink and white or red flowers when it gets enough sunlight.",
+      "price": 189
+    },
+    {
+      "id": 12,
+      "bonsaiImg": "https://www.bonsaiempire.com/images/articles-blog/bamboo-bonsai/bamboo-bonsai-thumb.jpg",
+      "bonsaiName": "Bamboo",
+      "bonsaiDesc": "Bamboo is a very diverse plant with a strong historical and cultural significance. Though its potential to be shaped as a 'tree' is limited, it is a popular plant among Bonsai enthusiasts for use as accent plants as well as for creating forests.",
+      "price": 135
+    }
+]
