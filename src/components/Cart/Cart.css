@@ -1,0 +1,8 @@
+.border-top,
+.border-bottom {
+	border-top: 4px solid #15ca20 !important;
+}
+
+.generic-color {
+	color: #15ca20;
+}

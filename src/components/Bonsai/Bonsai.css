@@ -1,0 +1,24 @@
+/* card custom style  */
+.card {
+	transition: 0.3s transform cubic-bezier(0.155, 1.105, 0.295, 1.12),
+		0.3s box-shadow,
+		0.3s -webkit-transform cubic-bezier(0.155, 1.105, 0.295, 1.12);
+}
+
+.card:hover {
+	transform: scale(1.05);
+	box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+
+/* button style  */
+.add-to-cart {
+	color: #15ca20;
+	background-color: rgba(21, 202, 32, 0.18);
+	border-color: rgba(21, 202, 32, 0.18);
+}
+
+.add-to-cart:hover {
+	color: #fff;
+	background-color: #0eb018 !important;
+	border-color: #0eb018 !important;
+}
