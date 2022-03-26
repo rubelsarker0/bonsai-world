@@ -2,7 +2,7 @@ import React from 'react';
 import { Button, Modal, Row, Col } from 'react-bootstrap';
 
 const RandomModal = ({ randomItems, randomModal, handleClose }) => {
-	console.log(randomItems);
+	const { bonsaiImg, bonsaiName, bonsaiDesc, price } = randomItems;
 	return (
 		<Modal
 			show={randomModal}
@@ -16,19 +16,17 @@ const RandomModal = ({ randomItems, randomModal, handleClose }) => {
 					<Col className="col">
 						<div className="row g-0">
 							<div className="col-md-4">
-								<img src={randomItems.bonsaiImg} className="card-img" alt="" />
+								<img src={bonsaiImg} className="card-img" alt="" />
 							</div>
 							<div className="col-md-8">
 								<div className="card-body">
-									<h3 className="card-title">{randomItems.bonsaiName}</h3>
+									<h3 className="card-title">{bonsaiName}</h3>
 									<p className="card-text text-muted text-align-justify  ">
-										{randomItems.bonsaiDesc}
+										{bonsaiDesc}
 									</p>
 									<h5 className="text-muted ">
 										Price:
-										<span className="text-danger ps-2">
-											{`$${randomItems.price}`}
-										</span>
+										<span className="text-danger ps-2">{`$${price}`}</span>
 									</h5>
 								</div>
 							</div>
